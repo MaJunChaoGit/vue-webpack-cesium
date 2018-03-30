@@ -2,10 +2,6 @@
 # vue-webpack-cesium
 搭建vue-cli脚手架整合Cesium
 
-# webgis
-
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
